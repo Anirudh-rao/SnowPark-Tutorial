@@ -14,13 +14,13 @@
 
 ### 1. Snowpark Dataframe API
 
-![alt text](image.png)
+![alt text](https://github.com/Anirudh-rao/SnowPark-Tutorial/blob/main/1.Snowpark%20DataFrame%20Transformations/src/PythonConnectorQueryPlan.png)
 
 From the above image we see the differnce between snowflake connector and snowpark.
 
 A Simple Query execution background of the Python Connector API is as shown below:
 
-![alt text](image-3.png)
+![alt text](https://github.com/Anirudh-rao/SnowPark-Tutorial/blob/main/1.Snowpark%20DataFrame%20Transformations/src/PythonConnectorQueryPlan.png)
 
 1. The `Snowpark dataframe` took inspiration from `pyspark dataframe` and the `pandas on Snowflake` was from `pandas` api`.
 

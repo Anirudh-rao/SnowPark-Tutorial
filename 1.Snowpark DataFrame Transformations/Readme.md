@@ -20,7 +20,7 @@ From the above image we see the differnce between snowflake connector and snowpa
 
 A Simple Query execution background of the Python Connector API is as shown below:
 
-![alt text](image-1.png)
+![alt text](image-3.png)
 
 1. The `Snowpark dataframe` took inspiration from `pyspark dataframe` and the `pandas on Snowflake` was from `pandas` api`.
 

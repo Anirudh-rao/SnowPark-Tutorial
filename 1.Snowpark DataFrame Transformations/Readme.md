@@ -14,7 +14,7 @@
 
 ### 1. Snowpark Dataframe API
 
-![alt text](https://github.com/Anirudh-rao/SnowPark-Tutorial/blob/main/1.Snowpark%20DataFrame%20Transformations/src/PythonConnectorQueryPlan.png)
+![alt text](https://github.com/Anirudh-rao/SnowPark-Tutorial/blob/main/1.Snowpark%20DataFrame%20Transformations/src/SnowparkVSPython.png)
 
 From the above image we see the differnce between snowflake connector and snowpark.
 
@@ -29,4 +29,4 @@ A Simple Query execution background of the Python Connector API is as shown belo
 3. Snowflake changed the syntax from `mixedCase` to `Snake_Case`.
 
 
-![alt text](image-2.png)
+![alt text](https://github.com/Anirudh-rao/SnowPark-Tutorial/blob/main/1.Snowpark%20DataFrame%20Transformations/src/SessionPlan.png)

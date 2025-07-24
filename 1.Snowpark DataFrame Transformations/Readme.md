@@ -20,4 +20,6 @@ We will cover topics like:
 
 8. Window Functions in Snowpark
 
+**Note :-** `This Entire Repository is run on Snowpark Notebooks.`
+
 Let Start:

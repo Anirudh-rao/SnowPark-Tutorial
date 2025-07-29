@@ -1,0 +1,2 @@
+CREATE STAGE stage1 
+	DIRECTORY = ( ENABLE = true );
